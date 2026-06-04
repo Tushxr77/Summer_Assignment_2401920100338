@@ -15,7 +15,7 @@
 
 This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment**. The assignment focuses on strengthening problem-solving skills, Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOPS) concepts through daily coding practice and weekly Java assignments.
 
-### Daily Targets
+### Daily Targets 
 
 * Solve **3 LeetCode Problems** every day.
 * Complete **1 OOPS Assignment** every week.
