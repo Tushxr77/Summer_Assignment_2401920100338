@@ -33,7 +33,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 | Day 2 - Prefix Sum & Sliding Window | ✅ Completed | [View Folder](./Week_1/Day_2) |
 | Day 3 - Two Pointer Problems | ✅ Completed | [View Folder](./Week_1/Day_3) |
 | Day 4 - Matrix Problems | ✅ Completed | [View Folder](./Week_1/Day_4) |
-| Day 5 | ⏳ Pending | [View Folder](./Week_1/Day_5) |
+| Day 5 |  ✅ Completed | [View Folder](./Week_1/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_1/OOPS) |
 
 ### Completed Problems
