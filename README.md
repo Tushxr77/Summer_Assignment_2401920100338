@@ -58,6 +58,10 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - Reshape the Matrix
 - Spiral Matrix
 
+#### Day 5
+- Valid Palindrome
+- Reverse String
+- Longest Common Prefix
 ---
 
 ## Week 2
