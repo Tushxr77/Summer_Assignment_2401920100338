@@ -73,12 +73,17 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 
 | Topic | Status | Quick Access |
 |--------|--------|-------------|
-| Day 1 | ⏳ Pending | [View Folder](./Week_2/Day_1) |
+| Day 1 |  ✅ Completed | [View Folder](./Week_2/Day_1) |
 | Day 2 | ⏳ Pending | [View Folder](./Week_2/Day_2) |
 | Day 3 | ⏳ Pending | [View Folder](./Week_2/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_2/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_2/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_2/OOPS) |
+
+### Day 1
+- Valid Anagram
+- First Unique Character in a String
+- Ransom Note
 
 ---
 
