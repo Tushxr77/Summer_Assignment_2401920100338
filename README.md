@@ -33,7 +33,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 | Day 2 - Prefix Sum & Sliding Window | ✅ Completed | [View Folder](./Week_1/Day_2) |
 | Day 3 - Two Pointer Problems | ✅ Completed | [View Folder](./Week_1/Day_3) |
 | Day 4 - Matrix Problems | ✅ Completed | [View Folder](./Week_1/Day_4) |
-| Day 5 |  ✅ Completed | [View Folder](./Week_1/Day_5) |
+| Day 5 -  String Basics |  ✅ Completed | [View Folder](./Week_1/Day_5) |
 | OOPS Assignment | ✅ Completed | [View Folder](./Week_1/OOPS) |
 
 ### Completed Problems
@@ -73,8 +73,8 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 
 | Topic | Status | Quick Access |
 |--------|--------|-------------|
-| Day 1 |  ✅ Completed | [View Folder](./Week_2/Day_1) |
-| Day 2 | ⏳ Pending | [View Folder](./Week_2/Day_2) |
+| Day 1 -  Hashing in Strings |  ✅ Completed | [View Folder](./Week_2/Day_1) |
+| Day 2 -  Sliding Window on Strings | ✅ Completed | [View Folder](./Week_2/Day_2) |
 | Day 3 | ⏳ Pending | [View Folder](./Week_2/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_2/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_2/Day_5) |
@@ -84,7 +84,11 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - Valid Anagram
 - First Unique Character in a String
 - Ransom Note
-
+  
+### Day 2
+- Longest Substring Without Repeating Characters
+- Permutation in String
+- Find All Anagrams in a String
 ---
 
 ## Week 3
