@@ -75,7 +75,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 |--------|--------|-------------|
 | Day 1 -  Hashing in Strings |  ✅ Completed | [View Folder](./Week_2/Day_1) |
 | Day 2 -  Sliding Window on Strings | ✅ Completed | [View Folder](./Week_2/Day_2) |
-| Day 3 | ⏳ Pending | [View Folder](./Week_2/Day_3) |
+| Day 3 -  Pattern Matching |  ✅ Completed | [View Folder](./Week_2/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_2/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_2/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_2/OOPS) |
@@ -89,6 +89,11 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - Longest Substring Without Repeating Characters
 - Permutation in String
 - Find All Anagrams in a String
+
+### Day 3
+- Find the Index of the First Occurrence in a String
+- Is Subsequence
+- Repeated Substring Pattern
 ---
 
 ## Week 3
