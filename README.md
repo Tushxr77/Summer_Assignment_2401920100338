@@ -76,7 +76,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 | Day 1 -  Hashing in Strings |  ✅ Completed | [View Folder](./Week_2/Day_1) |
 | Day 2 -  Sliding Window on Strings | ✅ Completed | [View Folder](./Week_2/Day_2) |
 | Day 3 -  Pattern Matching |  ✅ Completed | [View Folder](./Week_2/Day_3) |
-| Day 4 | ⏳ Pending | [View Folder](./Week_2/Day_4) |
+| Day 4 -  Recursion + Strings | ✅ Completed | [View Folder](./Week_2/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_2/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_2/OOPS) |
 
@@ -94,6 +94,11 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - Find the Index of the First Occurrence in a String
 - Is Subsequence
 - Repeated Substring Pattern
+
+### Day 4
+- Reverse Words in a String III
+- Decode String
+- Generate Parentheses
 ---
 
 ## Week 3
