@@ -77,7 +77,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 | Day 2 -  Sliding Window on Strings | ✅ Completed | [View Folder](./Week_2/Day_2) |
 | Day 3 -  Pattern Matching |  ✅ Completed | [View Folder](./Week_2/Day_3) |
 | Day 4 -  Recursion + Strings | ✅ Completed | [View Folder](./Week_2/Day_4) |
-| Day 5 | ⏳ Pending | [View Folder](./Week_2/Day_5) |
+| Day 5 - Mixed String Problems | ✅ Completed | [View Folder](./Week_2/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_2/OOPS) |
 
 ### Day 1
@@ -99,6 +99,11 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - Reverse Words in a String III
 - Decode String
 - Generate Parentheses
+
+### Day 5
+- Group Anagrams
+- String Compression
+- Longest Palindromic Substring
 ---
 
 ## Week 3
