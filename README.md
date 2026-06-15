@@ -78,7 +78,7 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 | Day 3 -  Pattern Matching |  ✅ Completed | [View Folder](./Week_2/Day_3) |
 | Day 4 -  Recursion + Strings | ✅ Completed | [View Folder](./Week_2/Day_4) |
 | Day 5 - Mixed String Problems | ✅ Completed | [View Folder](./Week_2/Day_5) |
-| OOPS Assignment | ⏳ Pending | [View Folder](./Week_2/OOPS) |
+| OOPS Assignment | ✅ Completed | [View Folder](./Week_2/OOPS) |
 
 ### Day 1
 - Valid Anagram
@@ -105,7 +105,27 @@ This repository contains solutions for the **4-Week DSA & OOPS Summer Assignment
 - String Compression
 - Longest Palindromic Substring
 ---
+### Week 2 OOPS Assignment
 
+## Topic
+Packages, Interfaces and Polymorphism
+
+## Files
+
+- Playable.java
+- Veena.java
+- Saxophone.java
+- Test.java
+
+## Concepts Used
+
+- Interface
+- Packages
+- Method Overriding
+- Runtime Polymorphism
+- Object-Oriented Programming
+
+Status: ✅ Completed
 ## Week 3
 
 | Topic | Status | Quick Access |
