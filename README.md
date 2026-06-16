@@ -131,7 +131,7 @@ Status: ✅ Completed
 | Topic | Status | Quick Access |
 |--------|--------|-------------|
 | Day 1 - Linked List Basics | ✅ Completed | [View Folder](./Week_3/Day_1) |
-| Day 2 | ⏳ Pending | [View Folder](./Week_3/Day_2) |
+| Day 2 - Advanced Linked List | ✅ Completed | [View Folder](./Week_3/Day_2) |
 | Day 3 | ⏳ Pending | [View Folder](./Week_3/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_3/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_3/Day_5) |
@@ -141,6 +141,12 @@ Status: ✅ Completed
 - Linked List Cycle
 - Reverse Linked List
 - Middle of the Linked List
+
+### Day 2
+- Merge Two Sorted Lists
+- Remove Nth Node From End of List
+- Palindrome Linked List
+
 ---
 
 ## Week 4
