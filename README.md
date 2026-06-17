@@ -132,7 +132,7 @@ Status: ✅ Completed
 |--------|--------|-------------|
 | Day 1 - Linked List Basics | ✅ Completed | [View Folder](./Week_3/Day_1) |
 | Day 2 - Advanced Linked List | ✅ Completed | [View Folder](./Week_3/Day_2) |
-| Day 3 | ⏳ Pending | [View Folder](./Week_3/Day_3) |
+| Day 3 - Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_3/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_3/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_3/OOPS) |
@@ -147,6 +147,10 @@ Status: ✅ Completed
 - Remove Nth Node From End of List
 - Palindrome Linked List
 
+### Day 3
+- Valid Parentheses
+- Min Stack
+- Next Greater Element I
 ---
 
 ## Week 4
