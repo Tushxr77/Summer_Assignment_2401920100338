@@ -133,7 +133,7 @@ Status: ✅ Completed
 | Day 1 - Linked List Basics | ✅ Completed | [View Folder](./Week_3/Day_1) |
 | Day 2 - Advanced Linked List | ✅ Completed | [View Folder](./Week_3/Day_2) |
 | Day 3 - Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_3) |
-| Day 4 | ⏳ Pending | [View Folder](./Week_3/Day_4) |
+| Day 4 - Advanced Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_3/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_3/OOPS) |
 
@@ -151,6 +151,11 @@ Status: ✅ Completed
 - Valid Parentheses
 - Min Stack
 - Next Greater Element I
+
+### Day 4
+- Daily Temperatures
+- Evaluate Reverse Polish Notation
+- Largest Rectangle in Histogram
 ---
 
 ## Week 4
