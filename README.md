@@ -134,7 +134,7 @@ Status: ✅ Completed
 | Day 2 - Advanced Linked List | ✅ Completed | [View Folder](./Week_3/Day_2) |
 | Day 3 - Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_3) |
 | Day 4 - Advanced Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_4) |
-| Day 5 | ⏳ Pending | [View Folder](./Week_3/Day_5) |
+| Day 5 - Queue / Deque Problems | ✅ Completed | [View Folder](./Week_3/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_3/OOPS) |
 
 ### Day 1
@@ -156,6 +156,10 @@ Status: ✅ Completed
 - Daily Temperatures
 - Evaluate Reverse Polish Notation
 - Largest Rectangle in Histogram
+### Day 5
+- Implement Queue using Stacks
+- Number of Recent Calls
+- Sliding Window Maximum
 ---
 
 ## Week 4
