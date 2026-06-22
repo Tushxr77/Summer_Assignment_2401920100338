@@ -135,7 +135,7 @@ Status: ✅ Completed
 | Day 3 - Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_3) |
 | Day 4 - Advanced Stack Problems | ✅ Completed | [View Folder](./Week_3/Day_4) |
 | Day 5 - Queue / Deque Problems | ✅ Completed | [View Folder](./Week_3/Day_5) |
-| OOPS Assignment | ⏳ Pending | [View Folder](./Week_3/OOPS) |
+| OOPS Assignment | ✅ Completed | [View Folder](./Week_3/OOPS) |
 
 ### Day 1
 - Linked List Cycle
@@ -161,7 +161,27 @@ Status: ✅ Completed
 - Number of Recent Calls
 - Sliding Window Maximum
 ---
+# Week 3 OOPS Assignment
 
+## Topic
+Abstract Classes and Polymorphism
+
+## Concepts Used
+- Abstract Class
+- Method Overriding
+- Runtime Polymorphism
+- Random Object Creation
+- Arrays of Objects
+
+## Files
+- Compartment.java
+- FirstClass.java
+- Ladies.java
+- General.java
+- Luggage.java
+- TestCompartment.java
+
+Status: ✅ Completed
 ## Week 4
 
 | Topic | Status | Quick Access |
