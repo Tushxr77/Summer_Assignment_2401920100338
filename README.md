@@ -187,7 +187,7 @@ Status: ✅ Completed
 | Topic | Status | Quick Access |
 |--------|--------|-------------|
 | Day 1 - Binary Tree Basics | ✅ Completed | [View Folder](./Week_4/Day_1) |
-| Day 2 | ⏳ Pending | [View Folder](./Week_4/Day_2) |
+| Day 2 - Tree Traversals | ✅ Completed | [View Folder](./Week_4/Day_2) |
 | Day 3 | ⏳ Pending | [View Folder](./Week_4/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_4/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_4/Day_5) |
@@ -197,6 +197,10 @@ Status: ✅ Completed
 - Maximum Depth of Binary Tree
 - Invert Binary Tree
 - Same Tree
+### Day 2
+- Binary Tree Inorder Traversal
+- Binary Tree Level Order Traversal
+- Binary Tree Zigzag Level Order Traversal
 ---
 
 # 🛠 Technologies Used
