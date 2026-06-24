@@ -188,7 +188,7 @@ Status: ✅ Completed
 |--------|--------|-------------|
 | Day 1 - Binary Tree Basics | ✅ Completed | [View Folder](./Week_4/Day_1) |
 | Day 2 - Tree Traversals | ✅ Completed | [View Folder](./Week_4/Day_2) |
-| Day 3 | ⏳ Pending | [View Folder](./Week_4/Day_3) |
+| Day 3 - Binary Search Tree | ✅ Completed | [View Folder](./Week_4/Day_3) |
 | Day 4 | ⏳ Pending | [View Folder](./Week_4/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_4/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_4/OOPS) |
@@ -201,6 +201,10 @@ Status: ✅ Completed
 - Binary Tree Inorder Traversal
 - Binary Tree Level Order Traversal
 - Binary Tree Zigzag Level Order Traversal
+### Day 3
+- Search in a Binary Search Tree
+- Validate Binary Search Tree
+- Lowest Common Ancestor of a Binary Search Tree
 ---
 
 # 🛠 Technologies Used
