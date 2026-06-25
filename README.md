@@ -189,7 +189,7 @@ Status: ✅ Completed
 | Day 1 - Binary Tree Basics | ✅ Completed | [View Folder](./Week_4/Day_1) |
 | Day 2 - Tree Traversals | ✅ Completed | [View Folder](./Week_4/Day_2) |
 | Day 3 - Binary Search Tree | ✅ Completed | [View Folder](./Week_4/Day_3) |
-| Day 4 | ⏳ Pending | [View Folder](./Week_4/Day_4) |
+| Day 4 - Path Based Problems | ✅ Completed | [View Folder](./Week_4/Day_4) |
 | Day 5 | ⏳ Pending | [View Folder](./Week_4/Day_5) |
 | OOPS Assignment | ⏳ Pending | [View Folder](./Week_4/OOPS) |
 
@@ -205,13 +205,16 @@ Status: ✅ Completed
 - Search in a Binary Search Tree
 - Validate Binary Search Tree
 - Lowest Common Ancestor of a Binary Search Tree
+### Day 4
+- Path Sum
+- Diameter of Binary Tree
+- Binary Tree Maximum Path Sum
 ---
 
 # 🛠 Technologies Used
 
 - Java
 - LeetCode
-- Git
 - GitHub
 
 ---
