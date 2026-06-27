@@ -191,7 +191,7 @@ Status: ✅ Completed
 | Day 3 - Binary Search Tree | ✅ Completed | [View Folder](./Week_4/Day_3) |
 | Day 4 - Path Based Problems | ✅ Completed | [View Folder](./Week_4/Day_4) |
 | Day 5 - Advanced Trees | ✅ Completed | [View Folder](./Week_4/Day_5) |
-| OOPS Assignment | ⏳ Pending | [View Folder](./Week_4/OOPS) |
+| OOPS Assignment | ✅ Completed  | [View Folder](./Week_4/OOPS) |
 
 ### Day 1
 - Maximum Depth of Binary Tree
@@ -213,10 +213,34 @@ Status: ✅ Completed
 - Symmetric Tree
 - Construct Binary Tree from Preorder and Inorder Traversal
 - Serialize and Deserialize Binary Tree
+
 ---
+# Week 4 OOPS Assignment
 
+## Topics Covered
+
+### Question 1
+- Interface
+- Interface Implementation
+
+### Question 2
+- Nested (Inner) Class
+
+### Question 3
+- Constructors
+- Encapsulation
+- Setter Methods
+
+### Question 4
+- Inheritance
+- Constructor Chaining
+- Area & Volume Calculation
+
+## Status
+
+✅ Completed
 # 🛠 Technologies Used
-
+---
 - Java
 - LeetCode
 - GitHub
