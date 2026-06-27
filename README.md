@@ -1,7 +1,7 @@
 # 🚀 Summer Assignment 2026 - DSA & OOPS
 
 ## 👨‍🎓 Student Information
-
+ 
 | Details | Information |
 |----------|------------|
 | Name | Tushar Sharma |
@@ -239,8 +239,9 @@ Status: ✅ Completed
 ## Status
 
 ✅ Completed
-# 🛠 Technologies Used
 ---
+# 🛠 Technologies Used
+
 - Java
 - LeetCode
 - GitHub
